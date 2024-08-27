@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Brands from './components/Brands'
 import Link from 'next/link';
 
-function shop() {
+function Shop() {
     const [activeIndex, setActiveIndex] = useState(null);
 
   const toggleAccordion = (index) => {
@@ -752,4 +752,4 @@ color:#000 ;
   )
 }
 
-export default shop
+export default Shop
