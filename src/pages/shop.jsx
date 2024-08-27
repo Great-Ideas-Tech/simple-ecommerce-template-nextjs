@@ -124,12 +124,12 @@ color:#000 ;
               </li>
               <li className="list-inline-item">
                 <Link className="h3 text-dark text-decoration-none mr-3" href="#">
-                  Men's
+                  Men&#39;s
                 </Link>
               </li>
               <li className="list-inline-item">
                 <Link className="h3 text-dark text-decoration-none" href="#">
-                  Women's
+                  Women&#39;s
                 </Link>
               </li>
             </ul>
